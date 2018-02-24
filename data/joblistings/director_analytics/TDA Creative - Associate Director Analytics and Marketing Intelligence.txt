@@ -1,0 +1,94 @@
+
+TDA Creative is partnering with a digital agency in Brooklyn to find an exceptional senior member to join their Marketing Intelligence discipline and Analytics team. They bring together product design, systems creation, brand stories, and social communities to help businesses thrive.   The focus of this role is to provide data analytics support and strategic solutions across all marketing channels- especially across their website, SEO and social media needs. The position works collaboratively with account management, strategy, content, ux and tech and other relevant stakeholders to drive efficiency and integrate data for our clients and around the agency.
+
+
+
+Core Responsibilities:
+
+Your day-to-day
+
+     Take the lead in working closely with internal teams and clients to assess, design and deliver the right data strategy to help make analytics a continuous source of utility in their lives
+
+
+
+Website + SEO
+
+     Perform all technical aspects of website analytics and SEO initiatives including gathering requirements, creating tagging and tracking specs, tool and tagging maintenance, conducting QA and working closely with developers and client teams on logistics and execution
+
+     Setup Google tag manager/Google analytics/Adobe analytics to facilitate analytics tagging and tracking on websites. Work closely with developers ensure smooth and accurate tracking setup
+
+     Perform website analytics and SEO audit reports and provide actionable recommendations for teams to execute on
+
+     Create website reporting to include website performance, visitor behavior, navigation/bottlenecks, content performance, optimization opportunities etc.
+
+     Conduct customer path analytics along with A/B and multivariate testing
+
+     Set up campaign tracking and evaluate data from cross-channel marketing campaigns
+
+     Lead aspects of SEO including keyword analysis, metadata strategy, onsite and offsite SEO optimization plans and best practices guides
+
+
+
+Social Media + Social Listening
+
+     Analyze and interpret data from Facebook, Twitter, Youtube, sites etc. to measure and track the impact of social media on client/brand/business
+
+     Develop and deliver client reports to include insights from content and platform analysis, campaign performance (paid & organic), social ROI/conversion, social listening (conversation analysis) and sentiment
+
+     Conduct social listening to understand key conversation drivers of a brand, identify high propensity customer segments and behaviors that can influence conversion/high value transactions
+
+     Work closely with strategists to unearth solid audience insights and continually refine process of how analytics fuels strategy, creative ideas and tactical plans
+
+     Help define social media and campaign measurement plans (benchmarks, goals, KPI’s and metrics) with a focus on conversion and ROI
+
+     Collaborate closely with data scientists in developing innovative research methodologies, influencer ID and new ways of measuring and tracking ROI
+
+
+
+Your Client
+
+     Build a strong relationship with the client and lead direct communication for all analytics and measurement needs on a daily basis. Demonstrate a strong focus on client satisfaction and delivery
+
+     Should be comfortable working independently in cross-functional teams in high pressure situations
+
+     Represent agency and lead interagency meetings on all things data and analytics
+
+
+
+Your Discipline/Team
+
+     Lead new business pitches from a marketing intelligence and analytics perspective
+
+     Grow the discipline’s capabilities with strategic and creative use of data and have a strong POV on approach and best practices
+
+     Take pride in contributing to create a focused, highly impactful intelligence discipline
+
+     Manage and mentor junior team members- teach, delegate, empower them to succeed
+
+     Commit to training and sharing expertise across the team to help maintain our culture of continuous knowledge sharing and learning from one another
+
+
+
+Skills + Experience:
+
+     6-8 years of proven experience and in depth knowledge in:
+
+     Developing and managing SEO and website analytics operations
+
+     Web Analytics and SEO tools/platforms is a must (Adobe Analytics, Google Tag Manager, Moz, SEMRush, Google analytics and webmaster tools
+
+     Advanced social analytics platforms, specifically writing and editing Boolean queries in platforms like Crimson Hexagon, Brandwatch, Sysomos etc.
+
+     Social analytics platforms such as Facebook, Twitter Analytics, Iconosquare, Sprinklr, Social Bakers etc.
+
+     Intermediate to Advanced Excel (sorting data, pivot tables, advanced functions, charting)
+
+*A solid understanding of how data is collected and verified is required
+
+     Excellent communication and presentation skills and ability to communicate complex information in simple digestible formats
+
+     Ability to work in cross-functional teams in fast paced situations
+
+     Experience analyzing and interpreting paid social, display and SEM is a plus
+
+     Experience in data science or working closely with data scientists is a plus
