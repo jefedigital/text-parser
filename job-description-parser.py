@@ -11,7 +11,7 @@ stopwords = nltk.corpus.stopwords.words('english')
 
 # define data sources
 dir = 'data/joblistings/director_analytics/*.txt'
-file = 'data/joblistings/1.txt'
+file = 'data/joblistings/sample_job.txt'
 
 # init
 tokens = []
@@ -57,7 +57,7 @@ print('Top keywords & count:\n')
 for x in common_25:
     print(': '.join(map(str,x)))
 
-    # find collocations
+# Find collocations
 
 ## bigrams
 bigram_measures = nltk.collocations.BigramAssocMeasures()
@@ -67,7 +67,7 @@ bigrams = bi_finder.nbest(bigram_measures.likelihood_ratio, 1000)
 
 print('Top Bigrams:\n',)
 for x in bigrams:
-print(' '.join(x))
+    print(' '.join(x))
 
 ## trigrams
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
@@ -77,4 +77,4 @@ trigrams = tri_finder.nbest(trigram_measures.likelihood_ratio, 1000)
 
 print('Top Trigrams:\n',)
 for x in trigrams:
-  print(' '.join(x))
+    print(' '.join(x))
